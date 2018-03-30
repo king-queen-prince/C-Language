@@ -5,5 +5,5 @@ int main(void)
     printf("%s\n",a);
 
     char *b[] ={"abc","def","hij"};
-    printf("%c\n",b[0][0]);//地址+下标=内容
+    printf("%c\n",b[0][0]);//鍦板潃+涓嬫爣=鍐呭
 }
